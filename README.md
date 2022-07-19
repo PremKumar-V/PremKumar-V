@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Codechickdev/codechickdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My name is **CodeChick**
+
+- Student 👩‍🎓
+- Currently Learning ML 🦾
+- Python, HTML, CSS 🌱
+- Known
+  - API Development with FastAPI ⚡
+  - Software Development with Python
+
+### Some of My Repo ☺
+
+- [Group ML](https://github.com/Codechickdev/Group_ML) - Practicing ML Algorithms
+- [CodeChef Self Learning Solutions](https://github.com/Codechickdev/CodeChef_Self_Learning_Solution) - Solution to all Codechef Self Learning Modules
+
+### Current Mission 🚀
+
+- [x] Exploratory Data Analysis
+- [ ] Machine Learning
+- [ ] Deep Learning
+
+
+### How to Reach me
+- [Instagram](https://www.instagram.com/codechickdev/)
+- [Linkedin](https://www.linkedin.com/in/premkumarv12/)
+
+- codechickdev12@gmail.com
