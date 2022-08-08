@@ -25,8 +25,6 @@ Here are some ideas to get you started:
   - Software Development with Python
 
 ### Some of My Repo ☺
-
-- [Group ML](https://github.com/Codechickdev/Group_ML) - Practicing ML Algorithms
 - [CodeChef Self Learning Solutions](https://github.com/Codechickdev/CodeChef_Self_Learning_Solution) - Solution to all Codechef Self Learning Modules
 
 ### Current Mission 🚀
