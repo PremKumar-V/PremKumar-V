@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   - Software Development with Python
 
 ### Some of My Repo ☺
+- [ML Projects](https://github.com/Codechickdev/ML_Projects) - Repo Full of Machine Learning Projects
 - [CodeChef Self Learning Solutions](https://github.com/Codechickdev/CodeChef_Self_Learning_Solution) - Solution to all Codechef Self Learning Modules
 
 ### Current Mission 🚀
