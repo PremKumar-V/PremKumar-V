@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### Current Mission 🚀
 
 - [x] Exploratory Data Analysis
-- [ ] Machine Learning
+- [x] Machine Learning
 - [ ] Deep Learning
 
 
