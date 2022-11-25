@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### My name is **CodeChick**
 
 - Student 👩‍🎓
-- Currently Learning ML 🦾
+- Currently Learning DL 🦾
 - Python, HTML, CSS 🌱
 - Known
   - API Development with FastAPI ⚡
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ### Some of My Repo ☺
 - [ML Projects](https://github.com/Codechickdev/ML_Projects) - Repo Full of Machine Learning Projects
 - [CodeChef Self Learning Solutions](https://github.com/Codechickdev/CodeChef_Self_Learning_Solution) - Solution to all Codechef Self Learning Modules
+- [Scratch ML](https://github.com/Codechickdev/Scratch_ML) - Machine Learning concepts from scratch
 
 ### Current Mission 🚀
 
