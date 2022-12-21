@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My name is **CodeChick**
+### My name is **Prem Kumar**
 
 - Student 👩‍🎓
-- Currently Learning DL 🦾
+- Currently Learning DL (Deep Learning )🦾
 - Python, HTML, CSS 🌱
+  - Sklearn, Matplotlib, Seaborn, Pytorch, Streamlit
 - Known
-  - API Development with FastAPI ⚡
   - Software Development with Python
+  - AI and Machine Learning
 
 ### Some of My Repo ☺
 - [ML Projects](https://github.com/Codechickdev/ML_Projects) - Repo Full of Machine Learning Projects
