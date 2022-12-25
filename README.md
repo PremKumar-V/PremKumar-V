@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 ### Some of My Repo ☺
 - [ML Projects](https://github.com/Codechickdev/ML_Projects) - Repo Full of Machine Learning Projects
-- [CodeChef Self Learning Solutions](https://github.com/Codechickdev/CodeChef_Self_Learning_Solution) - Solution to all Codechef Self Learning Modules
 - [Scratch ML](https://github.com/Codechickdev/Scratch_ML) - Machine Learning concepts from scratch
+- [CSES Problem Set Solutions](https://github.com/Codechickdev/CSES_Problem_Set_Solutions) - Solutions for all CSES Problems
 
 ### Current Mission 🚀
 
