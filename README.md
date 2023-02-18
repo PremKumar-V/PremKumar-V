@@ -26,18 +26,16 @@ Here are some ideas to get you started:
   - AI and Machine Learning
 
 ### Some of My Repo ☺ ( On Progress )
-- [ML Projects](https://github.com/Codechickdev/ML_Projects) - Repo Full of Machine Learning Projects
-- [Scratch ML](https://github.com/Codechickdev/Scratch_ML) - Machine Learning concepts from scratch
+- [ML Projects](https://github.com/PremKumar-V/ML_Projects) - Repo Full of Machine Learning Projects
 
 ### Current Mission 🚀
 
 - [x] Exploratory Data Analysis
 - [x] Machine Learning
-- [ ] Deep Learning
+- [x] Deep Learning
 
 
 ### How to Reach me
-- [Instagram](https://www.instagram.com/codechickdev/)
 - [Linkedin](https://www.linkedin.com/in/premkumarv12/)
 
 - codechickdev12@gmail.com
