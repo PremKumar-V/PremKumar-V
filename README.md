@@ -27,12 +27,14 @@ Here are some ideas to get you started:
 
 ### Some of My Repo ☺ ( On Progress )
 - [ML Projects](https://github.com/PremKumar-V/ML_Projects) - Repo Full of Machine Learning Projects
+- [NLP Projects](https://github.com/PremKumar-V/NLP_Projects) - Repo Full of Natural Language Projects
 
 ### Current Mission 🚀
 
 - [x] Exploratory Data Analysis
 - [x] Machine Learning
 - [x] Deep Learning
+- [ ] Natural Language Processing
 
 
 ### How to Reach me
