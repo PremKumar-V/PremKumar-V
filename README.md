@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   - Sklearn, Matplotlib, Seaborn, Pytorch, Streamlit
 - Known
   - Software Development with Python
-  - AI and Machine Learning
+  - AI and Machine Learning and Natural Language Processing
 
 ### Some of My Repo ☺ ( On Progress )
 - [ML Projects](https://github.com/PremKumar-V/ML_Projects) - Repo Full of Machine Learning Projects
@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 ### How to Reach me
 - [Linkedin](https://www.linkedin.com/in/premkumarv12/)
 
-- codechickdev12@gmail.com
+- pk0399291@gmail.com
